@@ -36,9 +36,11 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
+
 							'images/motorcycle_riding.jpg': 'center',
 							'images/motorcycle.jpg': 'center',
 							'images/Titlepage_pic.png': 'center'
+
 						},
 
 					// Delay.
